@@ -1,0 +1,68 @@
+.center {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.contact {
+  padding: 40px 0;
+  text-align: center;
+  margin: auto;
+}
+
+.skills {
+  margin-bottom: 100px;
+}
+
+body {
+  background-color: #EDEEF7;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+hr {
+  border-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+h1 {
+  color: #7868E6;
+  margin:inherit;
+  font-family: "Gill Sans", sans-serif;
+  font-weight:600;
+  font-variant:normal;
+  font-stretch:expanded;
+  font-size: 100;
+}
+h3 {
+  color: #B8B5FF;
+  margin:inherit;
+  font-family: "Gill Sans", sans-serif;
+  font-weight:400;
+
+}
+p {
+  color: grey;
+  font-family: "Gill Sans", sans-serif;
+  font-weight: lighter;
+  margin: inherit;
+}
+table {
+  color: grey;
+  margin:inherit;
+  font-family: Georgia,serif;
+  font-weight:100;
+  text-align: justify;
+
+}
+img {
+  border-radius: 50%;
+}
+
+form {
+  margin:inherit;
+  margin-left: auto;
+  margin-bottom: 100px;
+  text-align: center;
+}
